@@ -1,0 +1,46 @@
+# Kitty
+
+foreground #ebebeb
+background #141414
+
+#: The foreground and background colors.
+
+color0 #282828
+color8 #4c4c4c
+
+#: black
+
+color1 #c24242
+color9 #d68080
+
+#: red
+
+color2  #74cc45
+color10 #a2dd82
+
+#: green
+
+color3  #dbcb51
+color11 #e7dc8a
+
+#: yellow
+
+color4  #2c68d4
+color12 #729ae2
+
+#: blue
+
+color5  #d1669c
+color13 #e098bd
+
+#: magenta
+
+color6  #52d1be
+color14 #8be0d3
+
+#: cyan
+
+color7  #a1a1a1
+color15 #d7d7d7
+
+#: white
