@@ -1,0 +1,23 @@
+{
+            "name": "Pencil Crayons",
+            "background": "#141414",
+            "foreground": "#ebebeb",
+            "black": "#282828",
+            "brightBlack": "#4c4c4c",
+            "red": "#c24242",
+            "brightRed": "#d68080",
+            "green": "#74cc45",
+            "brightGreen": "#a2dd82",
+            "yellow": "#dbcb51",
+            "brightYellow": "#e7dc8a",
+            "blue": "#2c68d4",
+            "brightBlue": "#729ae2",
+            "purple": "#d1669c",
+            "brightPurple": "#e098bd",
+            "cyan": "#52d1be",
+            "brightCyan": "#8be0d3",
+            "white": "#a1a1a1",
+            "brightWhite": "#d7d7d7",
+            "cursorColor": "#ebebeb",
+            "selectionBackground": "#ebebeb"
+        }
