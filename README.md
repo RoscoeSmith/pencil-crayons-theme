@@ -6,5 +6,5 @@ While the words in the license are final, as the creator I would personally appr
 
 If you want any official variations or have any programs you want to see this theme officially support, feel free to create them yourself in a pull request. I'm happy to include community contributions as long as there's enough demand.
 
-Preview courtesy of [terminal.sexy]
+Preview courtesy of [terminal.sexy](terminal.sexy)
 ![Preview image](/image.png)
